@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, my name is Dante Muñiz 👋
 
-<!--
-**DanteMzH/DanteMzH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer
+I am a programmer with strong skills in software development. I have experience in programming languages, including Java, React, Angular, Dart, and cloud services with AWS, as well as in the development of backend and frontend applications and I have worked on projects with agile methodologies and software development practices. I have a meticulous approach to code efficiency, optimization, and solving complex technical problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies:
+Java
+Python
+C#
+Javascript
+AWS
+Git,Github
+Linux
+MySql, MongoDB
